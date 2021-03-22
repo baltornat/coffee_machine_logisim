@@ -1,1 +1,1 @@
-Il circuito "main" è "Macchina Caffe.circ"
+Main circuit is "Macchina Caffe.circ"
